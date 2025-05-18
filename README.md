@@ -1,4 +1,4 @@
-![logo](https://github.com/Git-Hub-prog/Git-Hub-prog/blob/main/Screenshot%202025-05-18%20225957.png)
+![logo](https://github.com/Git-Hub-prog/Git-Hub-prog/blob/main/Screenshot%202025-05-18%20230940.png)
 <h1 align="center">Hi 👋, I'm Faiyaj Ansari</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
